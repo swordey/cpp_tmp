@@ -1,5 +1,5 @@
-# C++ Interesting Template Metaprograms
-This repository is about interesting template metaprograms.
+# C++ Useful Template Metaprogramming Ideas 
+This repository is about useful template metaprogramming. I am collecting here useful snippets for the future.
 
 ## Types
 * Recursive Class Generation
