@@ -6,4 +6,4 @@ In this folder you will find 3 solutions for creating LUT in compilation time.
 ## Methods
 * Variadic template table generation
 * Recursive table filler struct
-* Constexpr auto table
+* Constexpr auto table (C++17)

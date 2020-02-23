@@ -6,7 +6,7 @@ This repository is about useful template metaprogramming. I am collecting here u
 * Static Table Generation
   * Variadic template table generation
   * Recursive table filler class/struct
-  * Constexpr auto table
+  * Constexpr auto table (C++17)
 
 ## Authors
 
